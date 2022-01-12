@@ -1,4 +1,4 @@
-function modifyEverySecondElement() {
+const modifyEverySecondElement = (arr) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
